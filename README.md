@@ -8,20 +8,8 @@
 
 This project focuses on analyzing a dataset related to insurance claims. The primary goal is to uncover insights into the factors affecting insurance charges, including demographic and health-related variables. This analysis can assist stakeholders in understanding trends and making informed decisions.
 
-### Table of Contents
-<!-- This creates a third-level heading -->
 
-- [Project Overview](#project-overview)
-- [Dataset Description](#dataset-description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Analysis Steps](#analysis-steps)
-- [Results](#results)
-- [Conclusion](#conclusion)
-- [License](#license)
 
-## Dataset Description
-<!-- This creates another second-level heading -->
 
 The dataset used in this analysis contains the following columns:
 
@@ -58,8 +46,7 @@ The dataset used in this analysis contains the following columns:
 * Exploratory Data Analysis (EDA): Visualize data to understand distributions and relationships.
 * Statistical Analysis: Perform statistical tests to validate insights.
 * Modeling: If applicable, create predictive models to forecast insurance charges based on the features.
-## Results
-<!-- This creates another second-level heading -->
+
 
 The analysis reveals several key insights:
 
@@ -68,7 +55,7 @@ The analysis reveals several key insights:
 * BMI Impact: Higher BMI values are associated with increased charges.
 Visualizations will be included in the Jupyter Notebook to provide a clearer understanding of these relationships.
 
-## Conclusion
-<!-- This creates another second-level heading -->
 
-This analysis highlights important factors that influence insurance charges. The insights gained can be beneficial for insurance companies, policymakers, and individuals seeking to understand their insurance costs better.
+
+This analysis highlights important factors that influence insurance charges.
+The insights gained can be beneficial for insurance companies, policymakers, and individuals seeking to understand their insurance costs better.
